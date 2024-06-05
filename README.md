@@ -1,2 +1,8 @@
-# Text-Processing-and-Preprocessing-Natural-Language-Processing-
-Basically, NLP Techniques ~ Python
+** Comprehensive NLP Techniques study ~ Python
+*** steps
+- Tokenization (word-tokenize,sent-tokenize)
+- Normalization using stemming and lemmatization
+- Stop word removal 
+- Part-of-Speech tagging
+- Outputting the processed text
+

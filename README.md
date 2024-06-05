@@ -1,5 +1,6 @@
 Comprehensive NLP Techniques study ~ Python
-steps
+
+Steps
 - Tokenization (word-tokenize,sent-tokenize)
 - Normalization using stemming and lemmatization
 - Stop word removal 

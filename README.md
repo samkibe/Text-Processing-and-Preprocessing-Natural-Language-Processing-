@@ -6,4 +6,9 @@ Steps
 - Stop word removal 
 - Part-of-Speech tagging
 - Outputting the processed text
-- Practising creating a branch and learning GitHub's pull request workflow.
+  
+## Practising creating a branch and learning GitHub's pull request workflow. 
+-  Create a branch
+-  edit anything then commit
+-  then pull a request
+-  compare then merge 
